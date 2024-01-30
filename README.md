@@ -14,7 +14,7 @@ Este é um projeto pessoal que criei com o objetivo de melhorar minhas<br> habil
  - **CSS**(Cascading Style Sheets): Responsável pela estilização e aparência do teclado virtual.
 - **JavaScript**: Utilizado para a lógica de programação e interação com o usuário.
 
-##Como visualizar 
+## Como visualizar 
 1.Acesse a o projeto dogrand theft auto v através do seguinte link: [grand theft auto v.](https://victorlpsrd.github.io/copia_do_gta5/)<br>
 2.Divirta-se ao analisar esse pequeno projeto!
 
